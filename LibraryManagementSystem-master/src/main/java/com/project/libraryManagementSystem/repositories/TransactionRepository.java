@@ -9,7 +9,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 /**
  * This class is used as a repository for Transaction API.
  *
- * @author safwanmohammed907@gmal.com
+ * @author rpranay665@gmail.com
  */
 public interface TransactionRepository extends JpaRepository<Transaction, Integer> {
     Transaction findTopByStudentAndBookAndTransactionTypeOrderByIdDesc(Student student, Book book, TransactionType transactionType);

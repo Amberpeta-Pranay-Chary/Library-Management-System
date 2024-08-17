@@ -19,7 +19,7 @@ import java.util.List;
 /**
  * This class is used as a controller for Student API.
  *
- * @author safwanmohammed907@gmal.com
+ * @author rpranay665@gmail.com
  */
 @RestController
 public class StudentController {

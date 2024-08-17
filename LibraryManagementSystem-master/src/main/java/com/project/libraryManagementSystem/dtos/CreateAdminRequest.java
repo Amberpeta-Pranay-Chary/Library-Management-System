@@ -8,7 +8,7 @@ import javax.validation.constraints.NotBlank;
 /**
  * This class is used as a data transfer object for Admin API.
  *
- * @author safwanmohammed907@gmal.com
+ * @author rpranay665@gmail.com
  */
 @Getter
 @Setter

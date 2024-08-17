@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 /**
  * This class is used as a service for Author API.
  *
- * @author safwanmohammed907@gmal.com
+ * @author rpranay665@gmail.com
  */
 @Service
 public class AuthorService {

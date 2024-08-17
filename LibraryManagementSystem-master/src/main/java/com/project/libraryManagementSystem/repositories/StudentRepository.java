@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.JpaRepository;
 /**
  * This class is used as a repository for Student API.
  *
- * @author safwanmohammed907@gmal.com
+ * @author rpranay665@gmail.com
  */
 public interface StudentRepository extends JpaRepository<Student, Integer> {
     Student findByEmail(String email);

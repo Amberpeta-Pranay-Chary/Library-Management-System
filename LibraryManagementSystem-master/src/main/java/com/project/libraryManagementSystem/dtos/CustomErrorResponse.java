@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 /**
  * This class is used as a data transfer object for customised error response.
  *
- * @author safwanmohammed907@gmal.com
+ * @author rpranay665@gmail.com
  */
 @Getter
 @Setter

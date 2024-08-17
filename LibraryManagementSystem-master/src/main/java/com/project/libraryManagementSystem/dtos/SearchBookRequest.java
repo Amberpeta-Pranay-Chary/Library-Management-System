@@ -7,7 +7,7 @@ import lombok.*;
  * This class is used as a data transfer object for Book API for retrieving book
  * details.
  *
- * @author safwanmohammed907@gmal.com
+ * @author rpranay665@gmail.com
  */
 @Getter
 @Setter

@@ -16,7 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * This class is used as a controller for Transaction API.
  *
- * @author safwanmohammed907@gmal.com
+ * @author rpranay665@gmail.com
  */
 @RestController
 public class TransactionController {

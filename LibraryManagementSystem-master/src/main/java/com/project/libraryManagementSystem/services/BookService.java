@@ -13,7 +13,7 @@ import java.util.Optional;
 /**
  * This class is used as a service for Book API.
  *
- * @author safwanmohammed907@gmal.com
+ * @author rpranay665@gmail.com
  */
 @Service
 public class BookService {

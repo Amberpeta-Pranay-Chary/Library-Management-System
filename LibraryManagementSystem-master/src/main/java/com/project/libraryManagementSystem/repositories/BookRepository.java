@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * This class is used as a repository for Book API.
  *
- * @author safwanmohammed907@gmal.com
+ * @author rpranay665@gmail.com
  */
 public interface BookRepository extends JpaRepository<Book, Integer> {
     List<Book> findByBookName(String bookName);

@@ -3,7 +3,7 @@ package com.project.libraryManagementSystem.models;
 /**
  * This enum file contains different genre types.
  *
- * @author safwanmohammed907@gmal.com
+ * @author rpranay665@gmail.com
  */
 public enum Genre {
     FICTIONAL,

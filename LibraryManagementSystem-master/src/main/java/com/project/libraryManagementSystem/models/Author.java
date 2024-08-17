@@ -11,7 +11,7 @@ import java.util.List;
 /**
  * This class is used as a model for Author API.
  *
- * @author safwanmohammed907@gmal.com
+ * @author rpranay665@gmail.com
  */
 @Getter
 @Setter

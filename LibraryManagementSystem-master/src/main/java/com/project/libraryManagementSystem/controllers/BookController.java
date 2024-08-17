@@ -18,7 +18,7 @@ import java.util.List;
 /**
  * This class is used as a controller for Book API.
  *
- * @author safwanmohammed907@gmal.com
+ * @author rpranay665@gmail.com
  */
 @RestController
 public class BookController {

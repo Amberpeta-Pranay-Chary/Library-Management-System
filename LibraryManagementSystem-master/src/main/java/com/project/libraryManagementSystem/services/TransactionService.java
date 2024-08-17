@@ -14,7 +14,7 @@ import java.util.concurrent.TimeUnit;
 /**
  * This class is used as a service for Transaction API.
  *
- * @author safwanmohammed907@gmail.com
+ * @author rpranay665@gmail.com
  */
 @Service
 public class TransactionService {
